@@ -3,7 +3,7 @@
 
 ColdBOT is a simple yet functional Discord moderation bot developed for testing and learning purposes. It features essential moderation tools such as user kicking, banning, unbanning, and viewing the ban list. All moderation actions are logged to a file directly on your Desktop.
 
-**Author:** Cold Id-deen  
+**Author:** Jibreal Id-deen  
 **Date:** May 23, 2025
 
 ---
@@ -128,4 +128,4 @@ python bot.py
 This project is open for learning and modification.  
 Use it freely, break it, improve it.
 
-> Created with ❤️ for Discord bot development practice by **Cold Id-deen**
+> Created with ❤️ for Discord bot development practice by **Jibreal Id-deen**
